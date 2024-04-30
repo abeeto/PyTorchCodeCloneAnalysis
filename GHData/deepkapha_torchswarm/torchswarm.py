@@ -1,2 +1,0 @@
-from particle_swarm_optimization import ParticleSwarmOptimizer as pso
-from accelerated_particle_swarm_optimization import AcceleratedParticleSwarmOptimizer as apso

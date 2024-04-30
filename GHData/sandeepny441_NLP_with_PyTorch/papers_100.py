@@ -1,7 +1,0 @@
-
-RNN 
-LSTM
-LSTM GRU 
-
-
-
